@@ -1,2 +1,2 @@
 # github-actions-dotnet-webapp
-Repo para o trinamento WoMakersCode.
+Repo para o treinamento de Github WoMakersCode.
